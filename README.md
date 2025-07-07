@@ -12,7 +12,7 @@ All data is saved to a `.csv` file you can open in Excel.
 
 ---
 
-## 🔧 Tools & Libraries
+## Tools & Libraries
 
 - `requests` – fetches web pages
 - `BeautifulSoup` – parses HTML
