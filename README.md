@@ -1,12 +1,12 @@
-# 📚 Book Scraper – Python Web Scraping Project
+# Book Scraper – Python Web Scraping Project
 
 This script scrapes all book listings from [Books to Scrape](https://books.toscrape.com), a demo e-commerce site for practicing web scraping.
 
 It collects the following details:
-- ✅ Book Title
-- 💵 Price
-- ⭐ Rating
-- 🔗 Link to book detail page
+-  Book Title
+-  Price
+-  Rating
+- Link to book detail page
 
 All data is saved to a `.csv` file you can open in Excel.
 
@@ -21,7 +21,7 @@ All data is saved to a `.csv` file you can open in Excel.
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 
 1. Visits the first catalog page
 2. Finds all books on the page using class selectors
