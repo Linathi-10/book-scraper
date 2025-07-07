@@ -31,7 +31,7 @@ All data is saved to a `.csv` file you can open in Excel.
 
 ---
 
-## 🧪 Sample Output (CSV)
+## Sample Output (CSV)
 
 | Title                      | Price   | Rating | Link                                  |
 |----------------------------|---------|--------|---------------------------------------|
@@ -41,7 +41,7 @@ All data is saved to a `.csv` file you can open in Excel.
 
 ---
 
-## 📂 How to Run
+##  How to Run
 
 ```bash
 python book_scraper.py
